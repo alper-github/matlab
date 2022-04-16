@@ -1,6 +1,6 @@
 Motion Detection by Using Histograms on MATLAB
 
-Motion detection is done by using algortihms applied in MATLAB developed to be useful on live footage of stationary cameras.
+Motion detection is done by using algortihms applied in MATLAB developed to be used on live footage of stationary cameras.
 That stationary camera part is important since the code checks only the change of histograms of consecutively obtained frames
 with a certain delay.
 Checking if there exists a motion by only using histograms are actually pretty much "going around" a lot of image processing methods
