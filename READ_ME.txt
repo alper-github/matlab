@@ -9,7 +9,7 @@ However this method still suffers for motions that happen far away from the came
 of pixels than others and less pixel difference means higher chance of that motion being neglected. Because the amount of change
 in the max and min points of histograms are a lot less than desired.
 A moving camera captures images with always changing histograms and it is a job for completely different algorithm to obtain motion
-on a already moving camera.
+on such a camera.
 
 First part of this code is specified for built-in camera of my laptop. It may vary depending of your hardware, address and name of
 the camera in your computer.
